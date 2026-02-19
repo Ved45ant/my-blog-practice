@@ -11,7 +11,7 @@ setup(
     url='https://github.com/yourusername/cryptolib',
     packages=find_packages(),
     install_requires=[
-        'flask==0.5'
+        'flask==3.1.3'
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
